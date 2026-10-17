@@ -1,0 +1,11 @@
+table{
+    background-color: rgb(70, 157, 238);
+    border-radius: 3px;
+    border-color: red;
+    text-align: center;
+    align-items: center;
+}
+td{
+    background-color: white;
+    color:blue;
+}
